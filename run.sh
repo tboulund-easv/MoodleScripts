@@ -1,1 +1,1 @@
-testcafe safari CohortSync.js 
+testcafe safari AddTeacher.js 
